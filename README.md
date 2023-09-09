@@ -8,4 +8,5 @@ Descargar e instalar alguna distibución de linux en Virtualbox
 
 _____
 #####  Tarea #998
-
+Terminar los 3 niveles gratuitos de vim-adventures
+[![Captura-de-pantalla-1472.png](https://i.postimg.cc/hjbvtwbt/Captura-de-pantalla-1472.png)](https://postimg.cc/bDrp6mB7)
