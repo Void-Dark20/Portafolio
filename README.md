@@ -3,4 +3,5 @@
 
 _____
 #####  Tarea #999
-IMAGEN DE PRUEBA
+Descargar e instalar alguna distibución de linux en Virtualbox
+[![Debian.jpg](https://i.postimg.cc/fbTqscH9/Debian.jpg)](https://postimg.cc/pm4JYFMW)
