@@ -15,3 +15,8 @@ _____
 #####  Tarea #996
 **Crear un menú en bash y grabar la ejecución del script en asciinema**
 [![asciicast](https://asciinema.org/a/QO9R5AlpA6rSktEJohfEH8Zcr.svg)](https://asciinema.org/a/QO9R5AlpA6rSktEJohfEH8Zcr)
+
+_____
+#####  Tarea #995
+**Crear un GIF sobre todo lo que hemos visto hasta el momento**
+![GIF de Comando](https://github.com/Da/Void-Dark20/Portafolio/Imágenes/GIF_TAREA.gif)
