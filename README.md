@@ -19,4 +19,4 @@ _____
 _____
 #####  Tarea #995
 **Crear un GIF sobre todo lo que hemos visto hasta el momento**
-![GIF de Comando](https://github.com/Da/Void-Dark20/Portafolio/Imágenes/GIF_TAREA.gif)
+![GIF de Comando](https://github.com/Void-Dark20/Portafolio/blob/main/Im%C3%A1genes/GIF_TAREA.gif)
