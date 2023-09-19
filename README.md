@@ -13,8 +13,8 @@ _____
 
 _____
 #####  Tarea #996
-**Crear un menú en bash y grabar la ejecución del script en asciinema**
-<a href="https://github.com/Void-Dark20/Portafolio/blob/main/menu-bash.txt"> Este es un link </a>
+**Crear un menú en bash y grabar la ejecución del script en asciinema** <br>
+<a href="https://github.com/Void-Dark20/Portafolio/blob/main/menu-bash.txt"> Script del menú</a>
 [![asciicast](https://asciinema.org/a/QO9R5AlpA6rSktEJohfEH8Zcr.svg)](https://asciinema.org/a/QO9R5AlpA6rSktEJohfEH8Zcr)
 
 _____
