@@ -1,0 +1,39 @@
+#!/bin/bash
+SCRIPT=""
+
+while true
+do
+      #echo -e "\033[40m\033[34m MENU \033[0m"
+      echo -e "\033[40m\033[36m
+███╗   ███╗███████╗███╗   ██╗██╗   ██╗
+████╗ ████║██╔════╝████╗  ██║██║   ██║
+██╔████╔██║█████╗  ██╔██╗ ██║██║   ██║
+██║╚██╔╝██║██╔══╝  ██║╚██╗██║██║   ██║
+██║ ╚═╝ ██║███████╗██║ ╚████║╚██████╔╝
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝
+                                      \033[0m"
+      echo -e "1.-\033[40m\033[37m Crear arbol \033[0m"
+      echo -e "2.-\033[40m\033[37m Hola mundo \033[0m"
+      echo -e "3.-\033[40m\033[37m Hola nombre \033[0m"
+      echo -e "x.-\033[40m\033[31m Salir \033[0m\n\n"
+
+      echo -en "\033[40m\033[1;33m Selecciona un script: "
+      read SCRIPT
+
+      case ${SCRIPT} in
+            1)
+                     source creararbol.sh
+                     ;;
+            2)
+                     source holamundo.sh
+                     ;;
+            3)
+                     source holanombre.sh
+                     ;;
+            x)
+                     break
+                     ;;
+            *)
+                     echo -e "\033[40m\033[31m Esa opcion no existe"
+      esac
+done
