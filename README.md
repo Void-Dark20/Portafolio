@@ -38,7 +38,7 @@ do
       echo -e "x.-\033[40m\033[31m Salir \033[0m\n\n"
 
       echo -en "\033[40m\033[1;33m Selecciona un script: "
-      read <SCRIPT>
+      read SCRIPT
      case ${SCRIPT} in
             1)
                     source creararbol.sh
