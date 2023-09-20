@@ -16,7 +16,7 @@ _____
 **✅ Crear un menú en bash y grabar la ejecución del script en asciinema** 
 [![asciicast](https://asciinema.org/a/QO9R5AlpA6rSktEJohfEH8Zcr.svg)](https://asciinema.org/a/QO9R5AlpA6rSktEJohfEH8Zcr)
 
-**`Código del menú`** 
+**`➡️ Código del menú`** 
 ``` BASH
 #!/bin/bash 
 SCRIPT=""
@@ -66,4 +66,4 @@ _____
 _____
 #####  Tarea #994
 **✅ Realizar los 18 bash scripts y agregarlos al menú** <br>
-[Carpeta de los scripts.](./actividad1/seis/ "Carpeta del los scripts.")
+➡️ [Carpeta de los scripts.](./actividad1/seis/ "Carpeta del los scripts.")
