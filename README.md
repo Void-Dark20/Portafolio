@@ -16,7 +16,7 @@ _____
 **Crear un menú en bash y grabar la ejecución del script en asciinema** 
 [![asciicast](https://asciinema.org/a/QO9R5AlpA6rSktEJohfEH8Zcr.svg)](https://asciinema.org/a/QO9R5AlpA6rSktEJohfEH8Zcr)
 
-> **👇`Código del menú`**
+> **👇`Código del menú`** <br>
 > #!/bin/bash
 >SCRIPT=""
 >
