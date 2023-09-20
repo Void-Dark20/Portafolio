@@ -57,6 +57,7 @@ do
       esac
 done
 
+```
 _____
 #####  Tarea #995
 **Crear un GIF sobre todo lo que hemos visto hasta el momento**
