@@ -17,11 +17,11 @@ _____
 [![asciicast](https://asciinema.org/a/QO9R5AlpA6rSktEJohfEH8Zcr.svg)](https://asciinema.org/a/QO9R5AlpA6rSktEJohfEH8Zcr)
 
 > **👇`Código del menú`** <br>
-> #!/bin/bash
->SCRIPT=""
->
->while true
->do
+> #!/bin/bash <br>
+>SCRIPT="" <br>
+<br>
+>while true <br>
+>do <br>
 >      #echo -e "\033[40m\033[34m MENU \033[0m"
 >      echo -e "\033[40m\033[36m
 >███╗   ███╗███████╗███╗   ██╗██╗   ██╗
