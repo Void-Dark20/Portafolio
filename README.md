@@ -67,3 +67,11 @@ _____
 #####  Tarea #994
 **✅ Realizar los 18 bash scripts y agregarlos al menú** <br>
 ➡️ [Carpeta de los scripts.](./actividad1/seis/ "Carpeta del los scripts.")
+
+_____
+#####  Tarea #993
+**✅ Completar los 34 niveles de bandit**
+
+_____
+#####  Tarea #992
+**✅ Hackotoberfest** 
