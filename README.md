@@ -70,20 +70,20 @@ _____
 
 _____
 #####  Tarea #993
-** Completar los 34 niveles de bandit y subir un txt de los comandos utilizados**
+**Completar los 34 niveles de bandit y subir un txt de los comandos utilizados**
 
 _____
 #####  Tarea #992
-** Participar en el Hacktoberfest** 
+**Participar en el Hacktoberfest** 
 
 _____
 #####  Tarea #991
-** Realizar los rooms de Linux Fundamentals de tryhackme** 
+**Realizar los rooms de Linux Fundamentals de tryhackme** 
 
 _____
 #####  Tarea #990
-** Crear un jail al estilo de bandit** 
+**Crear un jail al estilo de bandit** 
 
 _____
 #####  Tarea #989
-** Realizar el room de Bash Scripting de TYryHackMe ** 
+**Realizar el room de Bash Scripting de TYryHackMe ** 
