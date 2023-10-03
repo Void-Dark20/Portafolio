@@ -65,7 +65,7 @@ _____
 
 _____
 #####  Tarea #994
-**✅ Realizar los 18 bash scripts y agregarlos al menú** <br> ➡️
+**✅ Realizar los 18 bash scripts y agregarlos al menú** ➡️ <br> 
 - [Carpeta de los scripts.](./actividad1/seis/ "Carpeta del los scripts.")
 
 _____
