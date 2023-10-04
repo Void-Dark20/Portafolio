@@ -71,7 +71,7 @@ _____
 _____
 #####  Tarea #993
 **Completar los 34 niveles de bandit y subir un txt de los comandos utilizados** <br>
-➡️ [Comandos del bandit.](./actividad1/seis/ "Comandos del bandit.")
+➡️ [Comandos del bandit.](https://github.com/Void-Dark20/Portafolio/blob/main/Comandos%20bandit.txt "Comandos del bandit.")
 
 _____
 #####  Tarea #992
