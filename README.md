@@ -70,7 +70,8 @@ _____
 
 _____
 #####  Tarea #993
-**Completar los 34 niveles de bandit y subir un txt de los comandos utilizados**
+**Completar los 34 niveles de bandit y subir un txt de los comandos utilizados** <br>
+➡️ [Comandos del bandit.](./actividad1/seis/ "Comandos del bandit.")
 
 _____
 #####  Tarea #992
