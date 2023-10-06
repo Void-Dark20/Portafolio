@@ -75,8 +75,10 @@ _____
 
 _____
 #####  Tarea #992
-**Participar en el Hacktoberfest** 
- [![An image of @voiddark20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/voiddark20)](https://holopin.io/@voiddark20)
+**Participar en el Hacktoberfest** <br>
+[![An image of @voiddark20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/voiddark20)](https://holopin.io/@voiddark20)
+_____
+#####  Tarea 991 💻
 
 _____
 #####  Tarea #991
