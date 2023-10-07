@@ -81,7 +81,9 @@ _____
 _____
 #####  Tarea #991
 **✅ Realizar los rooms de Linux Fundamentals de tryhackme** <br>
-➡️ -[Badge](https://tryhackme.com/jafetsanguino21/badges/terminaled)
+🔵-[Badges]🔵
+➡️-[Level 1](https://tryhackme.com/jafetsanguino21/badges/terminaled)
+
 _____
 #####  Tarea #990
 **Crear un jail al estilo de bandit** 
