@@ -81,7 +81,7 @@ _____
 _____
 #####  Tarea #991
 **✅ Realizar los rooms de Linux Fundamentals de tryhackme** <br>
-🔵<font color="yellow">**Badges**</font>🔵 <br>
+🔵**Badges**🔵 <br>
 ➡️[Part 1](https://tryhackme.com/jafetsanguino21/badges/terminaled)
 
 _____
@@ -91,5 +91,3 @@ _____
 _____
 #####  Tarea #989
 **Realizar el room de Bash Scripting de TYryHackMe** 
-<font color="green">Este texto es verde.</font>
-
