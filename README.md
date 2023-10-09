@@ -82,7 +82,7 @@ _____
 #####  Tarea #991
 **✅ Realizar los rooms de Linux Fundamentals de tryhackme** <br>
 🔵**Badges**🔵 <br>
-➡️[Part 1](https://tryhackme.com/jafetsanguino21/badges/terminaled)
+➡️[Cat Linux.txt](https://tryhackme.com/jafetsanguino21/badges/terminaled)
 
 _____
 #####  Tarea #990
