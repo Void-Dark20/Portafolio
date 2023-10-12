@@ -91,3 +91,11 @@ _____
 _____
 #####  Tarea #989
 **✅ Realizar el room de Bash Scripting de TYryHackMe** 
+
+_____
+#####  Tarea #988
+**Tarea #988 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia**
+
+#####  Tarea #987
+**Tarea #987 Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar con screenshots los resultados de sus comandos y las respuestas a sus preguntas** 
+
