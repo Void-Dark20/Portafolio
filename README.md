@@ -15,7 +15,6 @@ _____
 #####  Tarea #996
 **✅ Crear un menú en bash y grabar la ejecución del script en asciinema** 
 [![asciicast](https://asciinema.org/a/QO9R5AlpA6rSktEJohfEH8Zcr.svg)](https://asciinema.org/a/QO9R5AlpA6rSktEJohfEH8Zcr)
-
 **`➡️ Código del menú`** 
 ``` BASH
 #!/bin/bash 
@@ -95,7 +94,7 @@ _____
 _____
 #####  Tarea #988
 **✅ Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia** <br>
-➡️ [Capturas atividad #988](https://github.com/Void-Dark20/Portafolio/blob/main/Tarea_988.pdf)
+➡️`[Capturas atividad #988]´(https://github.com/Void-Dark20/Portafolio/blob/main/Tarea_988.pdf)
 
 _____
 #####  Tarea #987
