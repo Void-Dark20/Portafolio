@@ -94,7 +94,9 @@ _____
 
 _____
 #####  Tarea #988
-**Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia**
+**✅ Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia** <br>
+➡️ [Capturas atividad #988](https://github.com/Void-Dark20/Portafolio/blob/main/Tarea_988.pdf)
+
 _____
 #####  Tarea #987
 **Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar con screenshots los resultados de sus comandos y las respuestas a sus preguntas** 
