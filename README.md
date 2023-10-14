@@ -99,4 +99,4 @@ _____
 _____
 #####  Tarea #987
 **Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar con screenshots los resultados de sus comandos y las respuestas a sus preguntas** 
-
+➡️[Capturas atividad #987](https://github.com/Void-Dark20/Portafolio/blob/main/Tarea_987.pdf)
