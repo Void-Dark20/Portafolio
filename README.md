@@ -102,4 +102,9 @@ _____
 ➡️[Capturas actividad #987](https://github.com/Void-Dark20/Portafolio/blob/main/Tarea_987.pdf)
 _____
 #####  Tarea #986
-**✅ Instalar -SSH /n -hs**
+✅ Instalación de:  
+- ssh (Open SSH)
+- servicio web (Apache)
+- DB (MariaDB)
+- proxy web (Squit)
+- DNS (Bind9)
