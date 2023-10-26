@@ -108,3 +108,4 @@ _____
 - DB (MariaDB)
 - proxy web (Squit)
 - DNS (Bind9)
+![Instalacion](https://github.com/Void-Dark20/Portafolio/blob/main/Imagenes/Instalacion.JPG)
