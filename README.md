@@ -117,4 +117,4 @@ _____
 - Courier
 - Amavis
 - Roundcube
-![Instalacion](https://github.com/Void-Dark20/Portafolio/blob/main/Imagenes/Instalacion.JPG)
+![Instalacion](https://github.com/Void-Dark20/Portafolio/blob/main/Imagenes/Instala.JPG)
