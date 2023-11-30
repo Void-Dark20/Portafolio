@@ -104,8 +104,17 @@ _____
 #####  Tarea #986
 ✅ Instalación de:  
 - ssh (Open SSH)
-- servicio web (Apache)
+- Servicio web (Apache)
 - DB (MariaDB)
-- proxy web (Squit)
+- Proxy web (Squit)
 - DNS (Bind9)
+- FTP (PureFTP)
+- Squidguardian
+- HAProxy
+- PHP
+- OpeVPN
+- Postfix
+- Courier
+- Amavis
+- Roundcube
 ![Instalacion](https://github.com/Void-Dark20/Portafolio/blob/main/Imagenes/Instalacion.JPG)
